@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Column sorting for Laravel 5.5-7](#column-sorting-for-laravel-55-7)
+- [Column sorting for Laravel 5.5-8](#column-sorting-for-laravel-55-7)
 - [Setup](#setup)
   - [Composer](#composer)
     - [Laravel's >=5.5 auto discovery](#laravels-55-auto-discovery)
@@ -16,10 +16,10 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Column sorting for Laravel 5.5-7
-[![Latest Version](https://img.shields.io/github/release/Kyslik/column-sortable.svg?style=flat-square)](https://github.com/Kyslik/column-sortable/releases)
+# Column sorting for Laravel 5.5-8
+[![Latest Version](https://img.shields.io/github/release/sportdude/kyslik--column-sortable.svg?style=flat-square)](https://github.com/sportdude/kyslik--column-sortable/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Total Downloads](https://img.shields.io/packagist/dt/Kyslik/column-sortable.svg?style=flat-square)](https://packagist.org/packages/Kyslik/column-sortable)
+[![Total Downloads](https://img.shields.io/packagist/dt/sportdude/column-sortable.svg?style=flat-square)](https://packagist.org/packages/sportdude/column-sortable)
 ![run-tests](https://github.com/Kyslik/column-sortable/workflows/run-tests/badge.svg)
 
 Package for handling column sorting in Laravel 5.[5-8]. For earlier versions of Laravel checkout branch [L5.1-3](https://github.com/Kyslik/column-sortable/tree/L5.1-3)
@@ -33,7 +33,7 @@ Pull this package in through Composer (development/latest version `dev-master`)
 ```json
 {
     "require": {
-        "kyslik/column-sortable": "^6.0"
+        "sportdude/column-sortable": "^6.3.1"
     }
 }
 ```
